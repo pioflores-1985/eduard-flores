@@ -1,7 +1,7 @@
 # Sobre mi
 
-![](../images/perezoso.jpg)
+![](../images/pioflores.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hola, mi nombre es Pío Flores, vivo en Lima, Perú. Soy egresado de la carrera de Ingenieria Industríal de la Universidad de Lima. Trabajé durante muchos años en empresas del rubro textil. En el 2011 fundé mi empresa de venta de juegos infantiles en la que laboro actualmente.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit **[my website](https://community.emergentfutures.io/courses/5566525/content)**
+Desde pequeño siempre me ha atraído la mecánica y armar o desarmar cosas. Algo que aún de adulto me divierte seguir haciendo.
