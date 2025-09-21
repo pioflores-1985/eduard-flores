@@ -629,6 +629,24 @@ python<span class="w"> </span>--version
 <p>Finalmente hago click en el botón &ldquo;Commit changes&rdquo; para guardar las modificaciones&rdquo;</p>
 <p><img alt="" src="../../images/MT01/MKDOCS3.png" /></p>
 <h2 id="crear-clave-ssh"><strong>Crear clave SSH</strong><a class="headerlink" href="#crear-clave-ssh" title="Permanent link">&para;</a></h2>
+<p>Para crear la clave SSH, abro Terminal de Windows e ingreso el siguiente comando, reemplazando &ldquo;tu_mail&rdquo; por mi correo electrónico &ldquo;<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#112;&#105;&#111;&#46;&#102;&#108;&#111;&#114;&#101;&#115;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">&#112;&#105;&#111;&#46;&#102;&#108;&#111;&#114;&#101;&#115;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a>&ldquo;</p>
+<div class="highlight"><pre><span></span><code>ssh-keygen<span class="w"> </span>-t<span class="w"> </span>rsa<span class="w"> </span>-C<span class="w"> </span><span class="s2">&quot;tu_mail&quot;</span>
+</code></pre></div>
+<p><img alt="" src="../../images/MT01/SSH1.png" /></p>
+<p>Presiono Enter un par de veces hasta obtener la siguiente pantalla. Aquí puedo encontrar la ruta del archivo &ldquo;.pub&rdquo; que he generado.</p>
+<p><img alt="" src="../../images/MT01/SSH2.png" /></p>
+<p>Busco el archivo &ldquo;id_rsa.pub&rdquo; utilizando la ruta anterior.</p>
+<p><img alt="" src="../../images/MT01/SSH3.png" /></p>
+<p>Abro el archivo &ldquo;id_rsa.pub&rdquo; con el block de notas (Click derecho, Abrir con, Block de notas) . Esta es mi clave SSH. Verifico al final del texto que incluya mi correo electronico. Copio el contenido del texto para insertarlo en GitHub,</p>
+<p><img alt="" src="../../images/MT01/SSH4.png" /></p>
+<p>En GitHub, le doy click a la foto de mi perfil y click en &ldquo;Settings&rdquo;</p>
+<p><img alt="" src="../../images/MT01/GITSSH1.png" /></p>
+<p>En la barra lateral izquierda le doy click a &ldquo;SSH and GPG keys&rdquo; y luego click en el boton &ldquo;New SSH key&rdquo;</p>
+<p><img alt="" src="../../images/MT01/GITSSH2.png" /></p>
+<p>En el cuadro de texto &ldquo;Key&rdquo; copio el contenido del texto del archivo &ldquo;id_rsa.pub&rdquo; que habia abierto anteriormente con el Block de notas. Le doy click en el botón &ldquo;Add SSH key&rdquo; para agregar la clave SSH.</p>
+<p><img alt="" src="../../images/MT01/GITSSH3.png" /></p>
+<p>En esta pantalla ya puedo ver la clave SSH que acabo de agregar.</p>
+<p><img alt="" src="../../images/MT01/GITSSH4.png" /></p>
                 
                   
                     
@@ -637,7 +655,7 @@ python<span class="w"> </span>--version
 <div class="md-source-date">
   <small>
     
-      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="September 21, 2025 08:42:40 UTC">September 21, 2025</span>
+      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="September 21, 2025 13:13:59 UTC">September 21, 2025</span>
     
   </small>
 </div>
