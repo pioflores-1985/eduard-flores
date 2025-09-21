@@ -287,6 +287,27 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#instalar-extensiones-en-visual-studio-code" class="md-nav__link">
+    Instalar extensiones en Visual Studio Code
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#copiar-repositorio-efdi" class="md-nav__link">
+    Copiar repositorio EFDI
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#crear-clave-ssh" class="md-nav__link">
+    Crear clave SSH
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -500,6 +521,27 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#instalar-extensiones-en-visual-studio-code" class="md-nav__link">
+    Instalar extensiones en Visual Studio Code
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#copiar-repositorio-efdi" class="md-nav__link">
+    Copiar repositorio EFDI
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#crear-clave-ssh" class="md-nav__link">
+    Crear clave SSH
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -535,20 +577,58 @@
 Por algún motivo a mi no me funcionó el Python instalado desde la página web. Buscando soluciones en internet, encontré la sugerencia de instalarlo desde el Windows Store y finalmente funcionó.</li>
 <li><strong>Visual Studio Code</strong> → <a href="https://code.visualstudio.com/">Descargar Visual Studio Code</a>  </li>
 </ul>
-<p><br>
-Para instalar Git, le doy click en &ldquo;Downloads&rdquo; y elijo el sistema operativo.</p>
+<p><br></p>
+<p>Para instalar Git, le doy click en &ldquo;Downloads&rdquo; y elijo el sistema operativo.</p>
 <p><img alt="" src="../../images/MT01/INSTALAR-GIT.png" /></p>
-<p><br>
-Para instalar Python desde la web, le doy click en &ldquo;Downloads&rdquo; y elijo el sistema operativo.</p>
+<p><br></p>
+<p>Para instalar Python desde la web, le doy click en &ldquo;Downloads&rdquo; y elijo el sistema operativo.</p>
 <p><img alt="" src="../../images/MT01/INSTALAR-PYTHON-WEB.png" /></p>
 <p><br>
 Para instalar Python desde el Windows store, abro la aplicación, busco &ldquo;Python&rdquo; e instalo.</p>
 <p><img alt="" src="../../images/MT01/INSTALAR-PYTHON.png" /></p>
-<p><br>
-Para instalar Visual Studio Code, le doy click en &ldquo;Download&rdquo; y elijo el sistema operativo. También puedo darle click directo al botón &ldquo;Download for Windows&rdquo;, donde la página web ya detectó el sistema operativo utilizado.</p>
-<p><img alt="" src="../../images/MT01/INSTALAR-VSCODE.png" /></p>
-<p><br>
-Lorem ipsum dolor sit amet, consectetur adipiscing </p>
+<p><br></p>
+<p>Para instalar Visual Studio Code, le doy click en &ldquo;Download&rdquo; y elijo el sistema operativo. También puedo darle click directo al botón &ldquo;Download for Windows&rdquo;, donde la página web ya detectó el sistema operativo utilizado.</p>
+<p><img alt="" src="../../images/MT01/INSTALAR-VSCODE.png" />
+<br></p>
+<h2 id="instalar-extensiones-en-visual-studio-code"><strong>Instalar extensiones en Visual Studio Code</strong><a class="headerlink" href="#instalar-extensiones-en-visual-studio-code" title="Permanent link">&para;</a></h2>
+<p>Una vez instalado Visual Studio Code, instalo las siguientes extensiones.</p>
+<p><strong>Markdown Preview.</strong> Esta extensión me permitirá tener una vista previa del código en forma visual.</p>
+<p><img alt="" src="../../images/MT01/MARKDOWN.png" /></p>
+<p><strong>Phyton.</strong> Estas extensiones me permitirán trabajar con Python dentro de Visual Studio Code. (Verificar que el autor de las extensiones sea Microsoft)</p>
+<p><img alt="" src="../../images/MT01/PYTHON-EXTENSION.png" />
+<br>
+Para verificar que todo está correctamente instalado, en el terminal de Visual Studio Code, ingreso los siguientes comandos:</p>
+<div class="highlight"><pre><span></span><code>git<span class="w"> </span>--version
+python<span class="w"> </span>--version
+</code></pre></div>
+<p>Y se deben mostrar las versiones de cada uno.</p>
+<p><img alt="" src="../../images/MT01/GITPYTHONVERSION.png" />
+<br></p>
+<h2 id="copiar-repositorio-efdi"><strong>Copiar repositorio EFDI</strong><a class="headerlink" href="#copiar-repositorio-efdi" title="Permanent link">&para;</a></h2>
+<p>Para crear mi página web, voy a usar el template ya desarrollado por EFDI. Inicio sesión en GitHub y accedo al siguiente enlace donde se encuentra el template:</p>
+<p><a href="https://github.com/fablabbcn/efdi-template">https://github.com/fablabbcn/efdi-template</a></p>
+<p>Hago click en &ldquo;Fork&rdquo; para poder copiar el repositorio</p>
+<p><img alt="" src="../../images/MT01/FORK1.png" /></p>
+<p>Luego reemplazo el nombre del repositorio &ldquo;efdi-template&rdquo; por mi nombre, en este caso voy a usar &ldquo;eduard-flores&rdquo;. Para finalizar hago click en &ldquo;Create Fork&rdquo;. Con esto ya tengo creado mi repositorio.</p>
+<p><img alt="" src="../../images/MT01/FORK2.png" /></p>
+<p>Ahora empiezo a personalizar algunos archivos.</p>
+<p>En la pestaña &ldquo;Code&rdquo;, en la parte inferior derecha de la pantalla, le doy click al lápiz para modificar el archivo README.md</p>
+<p><img alt="" src="../../images/MT01/README.png" /></p>
+<p>En la parte final del archivo voy a reemplazar la palabra &ldquo;fablabbcn&rdquo; por mi nombre de usuario (Puedo encontrarlo en la barra de direcciones) que es &ldquo;pioflores-1985&rdquo; y reemplazo la palabra &ldquo;efdi-template&rdquo; por el nombre del repositorio (Puedo encontrarlo en la barra de direcciones) que es &ldquo;eduard-flores&rdquo;</p>
+<p><img alt="" src="../../images/MT01/README2.png" /></p>
+<p>Finalmente le doy click al botón &ldquo;Commit changes&rdquo; para grabar las modificaciones.</p>
+<p><img alt="" src="../../images/MT01/README3.png" /></p>
+<p>Ahora voy a la pestaña &ldquo;Setings&rdquo; y hago click en &ldquo;Pages&rdquo;. En la sección &ldquo;Branch&rdquo;, reemplazo &ldquo;none&rdquo; por &ldquo;gh_pages&rdquo; y le doy click en el botón &ldquo;Save&rdquo; para guardar los cambios.</p>
+<p><img alt="" src="../images/MT01/pages.png" /></p>
+<p>En la pestaña &ldquo;Code&rdquo;, abro el archivo mkdocs.yml</p>
+<p><img alt="" src="../../images/MT01/MKDOCS.png" /></p>
+<p>Le doy click en el lápiz para editar el archivo.</p>
+<p><img alt="" src="../../images/MT01/MKDOCS2.png" /></p>
+<p>En las lineas 7 y 8 del archivo voy a reemplazar la palabra &ldquo;fablabbcn&rdquo; por mi nombre de usuario (Puedo encontrarlo en la barra de direcciones y en la parte superior izquierda de la pantalla) que es &ldquo;pioflores-1985&rdquo; y reemplazo la palabra &ldquo;efdi-template&rdquo; por el nombre del repositorio (Puedo encontrarlo en la barra de direcciones y en la parte superior izquierda de la pantalla) que es &ldquo;eduard-flores&rdquo;</p>
+<p>La linea 7 ya modificada sera la dirección la página web. (<a href="https://pioflores-1985.github.io/eduard-flores/">https://pioflores-1985.github.io/eduard-flores/</a>)</p>
+<p>Finalmente hago click en el botón &ldquo;Commit changes&rdquo; para guardar las modificaciones&rdquo;</p>
+<p><img alt="" src="../../images/MT01/MKDOCS3.png" /></p>
+<h2 id="crear-clave-ssh"><strong>Crear clave SSH</strong><a class="headerlink" href="#crear-clave-ssh" title="Permanent link">&para;</a></h2>
                 
                   
                     
@@ -557,7 +637,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing </p>
 <div class="md-source-date">
   <small>
     
-      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="September 21, 2025 04:41:01 UTC">September 21, 2025</span>
+      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="September 21, 2025 08:42:40 UTC">September 21, 2025</span>
     
   </small>
 </div>
@@ -617,7 +697,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing </p>
       <div class="md-footer-copyright">
         
           <div class="md-footer-copyright__highlight">
-            Copyleft 2024 "Pío Flores" - GNU Free Documentation License
+            Copyleft 2025 "Pío Flores" - GNU Free Documentation License
           </div>
         
         Made with
