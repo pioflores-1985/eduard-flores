@@ -44,4 +44,3 @@ Sin embargo, en el camino de busqueda de información pude encontrarme con un di
 El ensamblado es muy simple e intuitivo, además al no contar con encastres muy elaborados, se puede fabricar en menos tiempo y reducir el costo de este proceso. Buscando mas información sobre este tipo silla pude encontrarme con la marca [**Enzzambla.**](https://www.enzzambla.com/?srsltid=AfmBOopOF-tWpGo_CulXKBFdWRmbXgRGklpH3TE-zsAImrhnBDXbaqSU)  que es la que más se asemeja a lo que el proyecto busca desarrollar.
 
 Ya con una idea más clara sobre el diseño de los mobiliarios, me hace mas sentido y pienso que la herramienta más adecuada para llevar a cabo el prototipo es una máquina de corte CNC.
-
