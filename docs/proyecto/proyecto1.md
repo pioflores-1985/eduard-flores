@@ -12,7 +12,8 @@ Este proyecto busca ayudar con la problemática de la falta de mobiliario adecua
 Resulta importante poder contar con infraestructura adecuada ya que los niños en etapa escolar pasan en promedio 5 horas diarias en el aula. Un mobiliario adecuado en tamaño puede influir positivamwente en el desarrollo del aprendizaje durante este periodo de tiempo, ya que le permite al niño sentirse mas cómodo y a gusto desarrollando sus actividades. Adenás de contribuir en su desarrollo físico ayudandolo a manteber una postura adecuada.
 
 El Perú cuenta con zonas geográficas de difícil acceso y muchas comunidades se encuentran alejadas de las ciudades y sin vias de comunicación adecuadas. Siendo el acceso de transporte de carga, en muchos casos, muy dificl.
- <br>  </br>
+   
+<br>  </br>
 ![](../images/PF/colegio.png)
 <br>  </br>
 ![](../images/PF/aula.png)

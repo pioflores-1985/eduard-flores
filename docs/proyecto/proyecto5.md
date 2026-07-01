@@ -5,6 +5,14 @@ hide:
 
 # Proyecto Integrador
 
-## **5. Validación y análisis crítico.**
+Se espera que el proyecto evidencie:
 
-Proyecto
+capacidad para evaluar resultados;
+
+reconocimiento de limitaciones;
+
+análisis crítico de errores y dificultades;
+
+reflexión sobre las decisiones tomadas;
+
+identificación de aprendizajes obtenidos durante el proceso.
