@@ -15,6 +15,7 @@ El Perú cuenta con zonas geográficas de difícil acceso y muchas comunidades s
 
 ![](../images/PF/colegio.png)
 <br>
+<br>
 ![](../images/PF/aula.png)
 <br>
 
