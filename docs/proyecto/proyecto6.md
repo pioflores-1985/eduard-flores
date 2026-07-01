@@ -5,7 +5,7 @@ hide:
 
 # Proyecto Integrador
 
-## **1. Problema o pregunta de trabajo.**
+## **6. Conclusiones y Proyección.**
 
 Proyecto
 

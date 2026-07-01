@@ -5,8 +5,6 @@ hide:
 
 # Proyecto Integrador
 
-## **1. Problema o pregunta de trabajo.**
+## **3. Metodología y proceso.**
 
 Proyecto
-
-# Proyecto Integrador 2

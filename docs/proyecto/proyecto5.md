@@ -5,8 +5,6 @@ hide:
 
 # Proyecto Integrador
 
-## **1. Problema o pregunta de trabajo.**
+## **5. Validación y análisis crítico.**
 
 Proyecto
-
-# Proyecto Integrador 2

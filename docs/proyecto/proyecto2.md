@@ -5,8 +5,6 @@ hide:
 
 # Proyecto Integrador
 
-## **1. Problema o pregunta de trabajo.**
+## **2. Marco conceptual y antecedentes.**
 
 Proyecto
-
-# Proyecto Integrador 2
