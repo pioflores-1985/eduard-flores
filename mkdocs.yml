@@ -23,11 +23,11 @@ nav:
     - MI01: inn/mi01.md
   - Proyecto Integrador:
     - Problema o pregunta de trabajo: proyecto/proyecto1.md
-    - Ideas Iniciales: proyecto/proyecto.md
-    - Ideas Iniciales: proyecto/proyecto.md
-    - Ideas Iniciales: proyecto/proyecto.md
-    - Ideas Iniciales: proyecto/proyecto.md
-    - Ideas Iniciales: proyecto/proyecto.md
+    - Marco conceptual y antecedentes: proyecto/proyecto2.md
+    - Metodología y proceso}: proyecto/proyecto3.md
+    - Desarrollo técnico y Materialización: proyecto/proyecto4.md
+    - Validación y análisis crítico: proyecto/proyecto5.md
+    - Conclusiones y proyección: proyecto/proyecto6.md
 
   - Referencias:
     - web: ref/web.md
