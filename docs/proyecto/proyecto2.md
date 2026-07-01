@@ -36,7 +36,7 @@ También pude buscar información acerca de los distintos tipos de encastre para
 Sin embargo, en el camino de busqueda de información pude encontrarme con un diseño que llamo mucho mi atención. Es simple, de pocas piezas y al parecer de fácil fabricación. No tiene encastres elaborados o complejos pero siento que esa simpleza puede contribuir en el proyecto.
 
 <br>  </br>
-![](../images/PF/silla1.jpg)
+![](../images/PF/silla.jpg)
 <br>  </br>
 ![](../images/PF/silla2.png)
 <br>  </br>
