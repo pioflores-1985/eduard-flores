@@ -14,8 +14,7 @@ Resulta importante poder contar con infraestructura adecuada ya que los niños e
 El Perú cuenta con zonas geográficas de difícil acceso y muchas comunidades se encuentran alejadas de las ciudades y sin vias de comunicación adecuadas. Siendo el acceso de transporte de carga, en muchos casos, muy dificl.
 
 ![](../images/PF/colegio.png)
-
-<br>  
+<br>  </br>
 ![](../images/PF/aula.png)
 <br>
 
