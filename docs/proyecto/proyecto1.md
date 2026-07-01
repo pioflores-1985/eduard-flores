@@ -13,6 +13,11 @@ Resulta importante poder contar con infraestructura adecuada ya que los niños e
 
 El Perú cuenta con zonas geográficas de difícil acceso y muchas comunidades se encuentran alejadas de las ciudades y sin vias de comunicación adecuadas. Siendo el acceso de transporte de carga, en muchos casos, muy dificl.
 
+![](../images/PF/colegio.png)
+<br>
+![](../images/PF/aula.png)
+<br>
+
 Es por esto, que este proyecto busca desarrollar un mobiliario, que aproveche los beneficios de la fabricación digital. Y que me permita poder sortear las limitaciones logísticas que implica el traslado de los mismos y que también sea viable económicamente frente a otras alternativas
 
 Por esto planteo dos ideas para este proyecto, las cuales desarrollo a continuación.
